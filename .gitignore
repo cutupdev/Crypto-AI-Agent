@@ -1,0 +1,8 @@
+
+smart_contract/.anchor
+smart_contract/.DS_Store
+smart_contract/target
+smart_contract/**/*.rs.bk
+smart_contract/node_modules
+smart_contract/test-ledger
+smart_contract/.yarn
