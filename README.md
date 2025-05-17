@@ -1,12 +1,12 @@
-# Solana AI Agent 
-Solana AI agent is designed to combine crypto(solana) and AI agents(Twitter AI agent, Discord AI agent, Telegram AI agent and crypto on-chain interaction AI agent), providing users with comprehensive toolkits for onchain market analysis, trading insights, decision-making supports and social platform chatbots that can offer professional advice for users.
+# Crypto AI Agent 
+Crypto AI agent is designed to combine crypto(solana, evm-ethereum, bitcoin) and AI agents(Twitter AI agent, Discord AI agent, Telegram AI agent and crypto on-chain interaction AI agent), providing users with comprehensive toolkits for onchain market analysis, trading insights, decision-making supports and social platform chatbots that can offer professional advice for users.
 An innovative project that seamlessly integrates AI and cryptocurrencies, designed to evolve continuously alongside advancements in both fields.
 Feel free to reach out of me when you face difficulty or want collaboration[Whatsapp: https://wa.me/13137423660, Telgram: https://t.me/DevCutup]
 
 
 ## Features
 #### Real-time on-chain data, social data fetching 
-- Continuously gathers real-time trading data, liquidity metrics, and token information from the Solana blockchain.
+- Continuously gathers real-time trading data, liquidity metrics, and token information from blockchain.
 - Monitors Twitter (X), Telegram, and Discord for trending crypto discussions and updates.
 - Provides insights into top-performing tokens, market sentiment, and major whale activities.
 #### Continuous updates with real-time data and human feedback(HF)
@@ -125,7 +125,7 @@ Vvaifufun-Solana-AI-Agent-Fork/
 ## Support
 Github: https://github.com/cutupdev
 
-Twitter: https://x.com/januscutup
+Twitter: https://x.com/devcutup
 
 Whatspp: https://wa.me/13137423660
 
