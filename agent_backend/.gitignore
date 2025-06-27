@@ -1,0 +1,29 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+
+# FastAPI
+*.log
+*.env
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# MongoDB
+*.lock
+*.log
+*.pid
+*.sock
+*.conf
+*.json
+*.bson
+*.gz
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+venv/
